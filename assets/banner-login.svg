@@ -1,0 +1,18 @@
+<svg width="1536" height="300" viewBox="0 0 1536 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#7ea2cf" offset="0"/>
+      <stop stop-color="#6a86b3" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="300" fill="url(#g)"/>
+  <g fill="#ffffff" opacity="0.95">
+    <circle cx="160" cy="150" r="76" fill="none" stroke="#fff" stroke-width="8"/>
+    <text x="100" y="162" font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="28" fill="#fff">YANSHAN</text>
+    <text x="92" y="192" font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="20" fill="#fff">UNIVERSITY</text>
+    <text x="350" y="170" font-size="72" font-weight="700"
+          font-family="'Hiragino Sans GB','PingFang SC','Microsoft YaHei',Arial,sans-serif">燕山大学</text>
+  </g>
+</svg>
